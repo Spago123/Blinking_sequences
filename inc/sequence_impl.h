@@ -1,6 +1,6 @@
 /**
  * @file sequence_impl.h
- * @author Harun Špago (hspago@prosafety.ba)
+ * @author Harun Špago (hspago1@etf.unsa.ba)
  * @brief 
  * @version 0.1
  * @date 2024-03-18
